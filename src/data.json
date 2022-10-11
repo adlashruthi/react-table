@@ -1,0 +1,37 @@
+[
+    {
+      "id": 1,
+      "fullName": "Sahithi Reddy",
+      "address": "Hyderabad",
+      "phoneNumber": "8989997516",
+      "email": "sahithireddy@email.com"
+    },
+    {
+      "id": 2,
+      "fullName": "Sai Kiran Reddy",
+      "address": "Mahabubabad",
+      "phoneNumber": "9631757516",
+      "email": "saikiranreddy@email.com"
+    },
+    {
+      "id": 3,
+      "fullName": "Sharandeep Reddy",
+      "address": "Karimnagar",
+      "phoneNumber": "788962999",
+      "email": "sharandeepreddy@email.com"
+    },
+    {
+      "id": 4,
+      "fullName": "Karthik Reddy",
+      "address": "Hyderabad",
+      "phoneNumber": "9898962111",
+      "email": "karthikreddy@email.com"
+    },
+    {
+      "id": 5,
+      "fullName": "Sindhu",
+      "address": "Hanamkonda",
+      "phoneNumber": "923196275",
+      "email": "sindhu@email.com"
+    }
+  ]
